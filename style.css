@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background: linear-gradient(#FFCDD2 0%, #D50000 100%);
+  }
+#F{
+  font-color: #6A1B9A;
+  font-shadow: 2px 2px #6A1B9A; 
+}
+h1{
+   font-color: #6A1B9A;
+  font-shadow: 2px 2px #6A1B9A; 
+}
+img{
+  width: 220px;
+  border-radius: 50%;
+  border-width: 100px;
+  border-color: black; 
+}
+#line{
+  height: 5px;
+  background-color: black;
+  width: 400px;
+  margin-left: 350px;
+  }
